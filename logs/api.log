@@ -1,0 +1,30 @@
+17-08-2020 10:10:56.178 [Gauge] [INFO] Watching directory: C:\Users\testinium\Desktop\Yeni klasör\hepsiburada\specs
+17-08-2020 10:10:56.180 [Gauge] [DEBUG] Found 2 files
+17-08-2020 10:10:56.180 [Gauge] [INFO] Watching directory: C:\Users\testinium\Desktop\Yeni klasör\hepsiburada\specs\concepts
+17-08-2020 10:10:56.180 [Gauge] [DEBUG] Found 7 files
+17-08-2020 10:10:56.180 [Gauge] [INFO] Watching directory: C:\Users\testinium\Desktop\Yeni klasör\hepsiburada\specs\scenarios
+17-08-2020 10:10:56.180 [Gauge] [DEBUG] Found 1 files
+17-08-2020 10:10:56.233 [Gauge] [ERROR] Concept parse failure: C:\Users\testinium\Desktop\Yeni klasör\hepsiburada\specs\concepts\AdressDeleteOperations.cpt C:\Users\testinium\Desktop\Yeni klasör\hepsiburada\specs\concepts\SelectCategoryAndFilter.cpt:1 Concept should have atleast one step => 'Specification Heading'
+17-08-2020 10:10:56.233 [Gauge] [ERROR] Parse failure: [[ParseError] C:\Users\testinium\Desktop\Yeni klasör\hepsiburada\specs\concepts\SelectCategoryAndFilter.cpt:1 Concept should have atleast one step => 'Specification Heading']
+17-08-2020 10:10:56.233 [Gauge] [INFO] Initializing concepts cache with 7 concepts
+17-08-2020 10:10:56.233 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\Yeni klasör\hepsiburada\specs\concepts\CreditCardTransactions.cpt
+17-08-2020 10:10:56.233 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\Yeni klasör\hepsiburada\specs\concepts\Login.cpt
+17-08-2020 10:10:56.233 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\Yeni klasör\hepsiburada\specs\concepts\ProductOperations.cpt
+17-08-2020 10:10:56.233 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\Yeni klasör\hepsiburada\specs\concepts\SelectCategoryAndFilter.cpt
+17-08-2020 10:10:56.233 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\Yeni klasör\hepsiburada\specs\concepts\AdressDeleteOperations.cpt
+17-08-2020 10:10:56.233 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\Yeni klasör\hepsiburada\specs\concepts\AdressOperations.cpt
+17-08-2020 10:10:56.233 [Gauge] [DEBUG] Adding concepts from C:\Users\testinium\Desktop\Yeni klasör\hepsiburada\specs\concepts\BasketControl.cpt
+17-08-2020 10:10:56.236 [Gauge] [INFO] Initializing specs cache with 1 specs
+17-08-2020 10:10:56.236 [Gauge] [DEBUG] Adding specs from C:\Users\testinium\Desktop\Yeni klasör\hepsiburada\specs\scenarios\Scenario.spec
+17-08-2020 10:10:56.236 [Gauge] [INFO] Initializing steps cache with 8 steps
+17-08-2020 10:10:56.236 [Gauge] [INFO] Gauge daemon initialized and listening on port: 58503
+17-08-2020 10:10:58.630 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"div[class='range-contain-row right']\" li elemente t\304\261kla" > 
+17-08-2020 10:10:58.630 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} li elemente t\304\261kla" parameterizedStepValue:"<div[class='range-contain-row right']> li elemente t\304\261kla" parameters:"div[class='range-contain-row right']" > > 
+17-08-2020 10:10:58.631 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"li[class='MenuItems-1-U3X']\" li elementlerin rastgele birinin \303\274st\303\274ne gel" > 
+17-08-2020 10:10:58.631 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} li elementlerin rastgele birinin \303\274st\303\274ne gel" parameterizedStepValue:"<li[class='MenuItems-1-U3X']> li elementlerin rastgele birinin \303\274st\303\274ne gel" parameters:"li[class='MenuItems-1-U3X']" > > 
+17-08-2020 10:10:58.663 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"ol[class='show-all-brands scrollable-filter-container scroll-lock'] li\" li elementlerden birine rastgele t\304\261kla" > 
+17-08-2020 10:10:58.664 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} li elementlerden birine rastgele t\304\261kla" parameterizedStepValue:"<ol[class='show-all-brands scrollable-filter-container scroll-lock'] li> li elementlerden birine rastgele t\304\261kla" parameters:"ol[class='show-all-brands scrollable-filter-container scroll-lock'] li" > > 
+17-08-2020 10:10:58.665 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"input[placeholder='En az']\" li elemente \"10\" de\304\237erini yaz" > 
+17-08-2020 10:10:58.666 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} li elemente {} de\304\237erini yaz" parameterizedStepValue:"<input[placeholder='En az']> li elemente <10> de\304\237erini yaz" parameters:"input[placeholder='En az']" parameters:"10" > > 
+17-08-2020 10:10:58.667 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"input[placeholder='En \303\247ok']\" li elemente \"4000\" de\304\237erini yaz" > 
+17-08-2020 10:10:58.667 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} li elemente {} de\304\237erini yaz" parameterizedStepValue:"<input[placeholder='En \303\247ok']> li elemente <4000> de\304\237erini yaz" parameters:"input[placeholder='En \303\247ok']" parameters:"4000" > > 

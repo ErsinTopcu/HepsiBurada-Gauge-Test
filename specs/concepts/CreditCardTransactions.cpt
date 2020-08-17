@@ -1,0 +1,10 @@
+
+# Kredi kartı bilgilerini doldurma işlemi
+* "a[class='accordion-title paymentType-1']" li elemente tıkla
+* "input[id='card-no']" li elemente "2345698211234567" değerini yaz
+* "input[id='holder-Name']" li elemente "Ersin Topcu" değerini yaz
+* "//span[text()='Ay']" li elemente xpath ile tıkla
+* "//span[text()='01']" li elemente xpath ile tıkla
+* "//span[text()='Yıl']" li elemente xpath ile tıkla
+* "//span[text()='2026']" li elemente xpath ile tıkla
+* "input[id='cvc']" li elemente "653" değerini yaz

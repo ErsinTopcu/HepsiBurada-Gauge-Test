@@ -1,0 +1,9 @@
+
+# Login İşlemi
+* "span[class='OldMyAccount-2BwAt'] " li elementin üzerine gel
+* "a[id='login']" li elemente tıkla
+* "input[id='txtUserName']" li elemente "ersintopcu19@gmail.com" değerini yaz
+* "input[id='txtPassword']" li elemente "147258Ersin" değerini yaz
+* "button[id='btnLogin']" li elemente tıkla
+* "5" saniye bekle
+* "span[class='OldMyAccount-2BwAt']" li elementin değeri "Hesabım" değeri ile uyuşuyor mu kontrol et
